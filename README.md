@@ -10,4 +10,13 @@ As someone that has written a technical book for a major publishing house, I kno
 
 I don't claim any piece of code is earth-shattering or unique, but you may find it helpful in your work, and you can even contribute if you'd like. 
 
+What you'll Need:
+
+* Unreal Engine 4.21.1 or newer
+* Visual Studio 2017 Community or higher
+* Github and Git LFS installed
+* A source-control management tool like Sourcetree from Atlassian.
+* Optional: Visual Assist from Whole Tomato Software.
+
+
  =Jenni
