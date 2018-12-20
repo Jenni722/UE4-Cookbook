@@ -25,5 +25,7 @@ If You Want To Contribute
 * An understanding of Design Patterns is advisable.
 * And understanding of Agile practices is advisable.
 
+If you reference a public resource, please credit the original in the C++ code and in the related BP. 
+
 
  =Jenni
