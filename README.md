@@ -8,7 +8,9 @@ I find that a lot of tutorials only go "so far" in what they cover, and a number
 
 As someone that has written a technical book for a major publishing house, I know how thankless that can be, and how quicky things age. I'd rather put the information out there for others, and also invite others to participate if they'd like. Open Source.
 
-I don't claim any piece of code is earth-shattering or unique, but you may find it helpful in your work, and you can even contribute if you'd like. 
+I'm a fan and a bit nostalgic for the days when you could buy a circuit "Cookbook" at Radio Shack and use it to build all sorts of interesting electronic projects. It was a kit of parts, and was endlessly fascinating. 
+
+I don't claim any piece of code is earth-shattering or unique, but you may find it helpful in your work, and you can even contribute if you'd like. This is as much as sandbox for playing with UE as it is a cookbook. 
 
 What you'll Need:
 
@@ -25,7 +27,7 @@ If You Want To Contribute
 * An understanding of Design Patterns is advisable.
 * And understanding of Agile practices is advisable.
 
-If you reference a public resource, please credit the original in the C++ code and in the related BP. 
+If you reference a public resource, please credit the original in the C++ code and in the related BP, or make a note to go along. If you want to demonstrate a feature, create a new 
 
 
  =Jenni
