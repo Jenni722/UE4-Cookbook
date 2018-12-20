@@ -8,7 +8,7 @@ I find that a lot of tutorials only go "so far" in what they cover, and a number
 
 As someone that has written a technical book for a major publishing house, I know how thankless that can be, and how quicky things age. I'd rather put the information out there for others, and also invite others to participate if they'd like. Open Source.
 
-I'm a fan and a bit nostalgic for the days when you could buy a circuit "Cookbook" at Radio Shack and use it to build all sorts of interesting electronic projects. It was a kit of parts, and was endlessly fascinating. 
+I'm a fan and a bit nostalgic for the days when you could buy a circuit "Cookbook" at Radio Shack and use it to build all sorts of interesting electronic projects. It was a kit of parts, and was endlessly fascinating. Forrest M. Mimms, if I recall his name.
 
 I don't claim any piece of code is earth-shattering or unique, but you may find it helpful in your work, and you can even contribute if you'd like. This is as much as sandbox for playing with UE as it is a cookbook. 
 
