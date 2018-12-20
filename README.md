@@ -18,5 +18,12 @@ What you'll Need:
 * A source-control management tool like Sourcetree from Atlassian.
 * Optional: Visual Assist from Whole Tomato Software.
 
+If You Want To Contribute
+
+* A firm understanding of using Git with an Unreal Engine project.
+* An understanding of SOLID coding practices is advisable. 
+* An understanding of Design Patterns is advisable.
+* And understanding of Agile practices is advisable.
+
 
  =Jenni
