@@ -27,7 +27,7 @@ If You Want To Contribute
 * An understanding of Design Patterns is advisable.
 * And understanding of Agile practices is advisable.
 
-If you reference a public resource, please credit the original in the C++ code and in the related BP, or make a note to go along. If you want to demonstrate a feature, create a new 
+If you reference a public resource, please credit the original in the C++ code and in the related BP, or make a note to go along. If you want to demonstrate a feature, create a new level and place objects there. That way Github won't get messed up with simultanieous edits. The same with Interfaces, create a new one for your samples so that it doesn't collide with other edits.
 
 
  =Jenni
